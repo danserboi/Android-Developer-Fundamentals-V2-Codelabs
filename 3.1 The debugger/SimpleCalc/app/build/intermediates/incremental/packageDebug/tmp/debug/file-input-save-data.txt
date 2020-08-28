@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Jul 29 15:35:43 EEST 2020
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\danse\\AndroidStudioProjects\\SimpleCalc\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1

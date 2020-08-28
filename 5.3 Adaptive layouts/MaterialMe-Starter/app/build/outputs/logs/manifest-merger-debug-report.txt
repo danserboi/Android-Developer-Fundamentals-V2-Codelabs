@@ -1,0 +1,173 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\danse\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\danse\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\danse\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\danse\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\88cc846790e90683afde963c474d112f\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\dd6dd506c751bfc5e809ea6077a2cb18\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\62f3357d14f76fb28f9392c3311910d4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\50fa715d3faa450c227118a16c4dbeca\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\71d7018cd034df0e19239fad955b0fbe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:palette-v7:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\palette-v7-28.0.0.aar\70158ea9a755cc6e0789be6e2724def8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\ad3ddeaa09fce7fbf78e9800a9904dd2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\e9061eb7171603ca5fe221acdad50fed\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\2f87ba588ecabe4301b11e2c734185ba\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\4877169f3d34d51b2b94e3c1d6df0341\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\a09dc5a0ca79748705a6d94142c7e293\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\47a29ac25f088140d19e025d1208868c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\60025e7a5fa65949aaf318193a8f1e0c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\db81ed149f32f9187bdfca700e3fb703\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\7210383d4ca8e2f41a2d8aa3b7eb6b3e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\5db1669f0f8ef27f35302e8037808dd7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\a6104a533c2a4070c271b23c0da9d09e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\d11f457bd2b72b1172dec87394caa86d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\1cbef251f8796a9a83e3df44c48e12d3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\49b5f363498669330dfb5441527d3046\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\81058e60e6cf22cf393e57489bbe520f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\f013d9aabff1d69537cd7a8c3e65a9da\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\68c4011f1e67ec23d09f7c7e44c40f2a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e7142ad5c08dc7cfa8148f9818d56812\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\f944957dfc5a73d6b63e752ce2bbe52c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\b7d093f0b0e688e0c17d73c251c54b52\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\6b4e009a06303f987017d41a1e2a0d32\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\d22d5099edb46ddd31eb79e26c8efec2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\eab02138384a8fdd346eaa8f60c3dc1c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\d4adf2e41db822c914c8903aff253995\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\547cb54fb6401303cb6a615da3e5de48\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\0db937c2c3685789242e29a766527ef7\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\danse\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\danse\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\danse\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\danse\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from C:\Users\danse\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\danse\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\danse\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\danse\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\danse\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\danse\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\danse\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\danse\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\danse\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\danse\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\88cc846790e90683afde963c474d112f\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\88cc846790e90683afde963c474d112f\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\dd6dd506c751bfc5e809ea6077a2cb18\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\dd6dd506c751bfc5e809ea6077a2cb18\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\81058e60e6cf22cf393e57489bbe520f\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\81058e60e6cf22cf393e57489bbe520f\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\f013d9aabff1d69537cd7a8c3e65a9da\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\f013d9aabff1d69537cd7a8c3e65a9da\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\81058e60e6cf22cf393e57489bbe520f\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\danse\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from C:\Users\danse\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from C:\Users\danse\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\danse\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\danse\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:10:9-40
+activity#com.example.android.materialme.DetailActivity
+ADDED from C:\Users\danse\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:11:9-61
+	android:name
+		ADDED from C:\Users\danse\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:11:19-49
+activity#com.example.android.materialme.MainActivity
+ADDED from C:\Users\danse\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\danse\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\danse\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\danse\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\danse\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\danse\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\danse\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\danse\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\danse\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\danse\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\88cc846790e90683afde963c474d112f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\88cc846790e90683afde963c474d112f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\dd6dd506c751bfc5e809ea6077a2cb18\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\dd6dd506c751bfc5e809ea6077a2cb18\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\62f3357d14f76fb28f9392c3311910d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\62f3357d14f76fb28f9392c3311910d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\50fa715d3faa450c227118a16c4dbeca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\50fa715d3faa450c227118a16c4dbeca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\71d7018cd034df0e19239fad955b0fbe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\71d7018cd034df0e19239fad955b0fbe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\palette-v7-28.0.0.aar\70158ea9a755cc6e0789be6e2724def8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\palette-v7-28.0.0.aar\70158ea9a755cc6e0789be6e2724def8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\ad3ddeaa09fce7fbf78e9800a9904dd2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\ad3ddeaa09fce7fbf78e9800a9904dd2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\e9061eb7171603ca5fe221acdad50fed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\e9061eb7171603ca5fe221acdad50fed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\2f87ba588ecabe4301b11e2c734185ba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\2f87ba588ecabe4301b11e2c734185ba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\4877169f3d34d51b2b94e3c1d6df0341\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\4877169f3d34d51b2b94e3c1d6df0341\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\a09dc5a0ca79748705a6d94142c7e293\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\a09dc5a0ca79748705a6d94142c7e293\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\47a29ac25f088140d19e025d1208868c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\47a29ac25f088140d19e025d1208868c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\60025e7a5fa65949aaf318193a8f1e0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\60025e7a5fa65949aaf318193a8f1e0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\db81ed149f32f9187bdfca700e3fb703\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\db81ed149f32f9187bdfca700e3fb703\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\7210383d4ca8e2f41a2d8aa3b7eb6b3e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\7210383d4ca8e2f41a2d8aa3b7eb6b3e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\5db1669f0f8ef27f35302e8037808dd7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\5db1669f0f8ef27f35302e8037808dd7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\a6104a533c2a4070c271b23c0da9d09e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\a6104a533c2a4070c271b23c0da9d09e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\d11f457bd2b72b1172dec87394caa86d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\d11f457bd2b72b1172dec87394caa86d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\1cbef251f8796a9a83e3df44c48e12d3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\1cbef251f8796a9a83e3df44c48e12d3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\49b5f363498669330dfb5441527d3046\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\49b5f363498669330dfb5441527d3046\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\81058e60e6cf22cf393e57489bbe520f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\81058e60e6cf22cf393e57489bbe520f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\f013d9aabff1d69537cd7a8c3e65a9da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\f013d9aabff1d69537cd7a8c3e65a9da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\68c4011f1e67ec23d09f7c7e44c40f2a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\68c4011f1e67ec23d09f7c7e44c40f2a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e7142ad5c08dc7cfa8148f9818d56812\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e7142ad5c08dc7cfa8148f9818d56812\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\f944957dfc5a73d6b63e752ce2bbe52c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\f944957dfc5a73d6b63e752ce2bbe52c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\b7d093f0b0e688e0c17d73c251c54b52\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\b7d093f0b0e688e0c17d73c251c54b52\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\6b4e009a06303f987017d41a1e2a0d32\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\6b4e009a06303f987017d41a1e2a0d32\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\d22d5099edb46ddd31eb79e26c8efec2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\d22d5099edb46ddd31eb79e26c8efec2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\eab02138384a8fdd346eaa8f60c3dc1c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\eab02138384a8fdd346eaa8f60c3dc1c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\d4adf2e41db822c914c8903aff253995\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\d4adf2e41db822c914c8903aff253995\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\547cb54fb6401303cb6a615da3e5de48\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\547cb54fb6401303cb6a615da3e5de48\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\0db937c2c3685789242e29a766527ef7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\danse\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\0db937c2c3685789242e29a766527ef7\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\danse\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\danse\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\danse\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\danse\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\danse\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\danse\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\danse\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\danse\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml

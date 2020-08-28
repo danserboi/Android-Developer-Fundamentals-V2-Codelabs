@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Simple Shopping App</string>
+    <string name="add_item">Add Item</string>
+    <string name="space" />
+    <string name="jeans">Jeans</string>
+    <string name="pepper">Pepper</string>
+    <string name="lemmon">Lemmon</string>
+    <string name="yoghurt">Yoghurt</string>
+    <string name="kiwi">Kiwi</string>
+    <string name="apples">Apples</string>
+    <string name="shirt">Shirt</string>
+    <string name="mushrooms">Mushrooms</string>
+    <string name="wine">Wine</string>
+    <string name="cereals">Cereals</string>
+</resources>

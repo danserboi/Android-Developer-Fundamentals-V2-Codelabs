@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Aug 14 22:16:57 EEST 2020
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\danse\\AndroidStudioProjects\\PhoneNumberSpinnerEspresso\\app\\build\\intermediates\\transforms\\dexMerger\\androidTest\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
